@@ -5,7 +5,8 @@ h1 {
   
   .container {
     background-color: rgb(255, 255, 255);
-    padding: 20px 0;
+    padding: 5px 0;
+      margin-right: auto;
   }
   
   .marker {
